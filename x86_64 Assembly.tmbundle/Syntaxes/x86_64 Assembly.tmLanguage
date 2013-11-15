@@ -5,13 +5,10 @@
 	<key>fileTypes</key>
 	<array>
 		<string>asm</string>
-<<<<<<< HEAD:x86 Assembly.tmbundle/Syntaxes/x86 Assembly.tmLanguage
 		<string>s</string>
-=======
 		<string>nasm</string>
 		<string>yasm</string>
 		<string>inc</string>
->>>>>>> 3d19704bb3e6171601e9905b2b9855c027ea5472:x86_64 Assembly.tmbundle/Syntaxes/x86_64 Assembly.tmLanguage
 	</array>
 	<key>name</key>
 	<string>x86_64 Assembly</string>
